@@ -1,0 +1,9 @@
+# Logs
+*.log
+
+# Dependencies
+node_modules/
+
+# Next.js build outputs
+.next/
+out/
